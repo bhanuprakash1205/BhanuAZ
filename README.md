@@ -1,2 +1,0 @@
-# Bhanu.Azure
-Training 
